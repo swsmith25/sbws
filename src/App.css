@@ -1,3 +1,10 @@
+.poem_container{
+
+  display: grid;
+  grid-template-columns: 30% 50%;
+  gap: 15%;
+}
+
 .App {
   text-align: center;
 }
