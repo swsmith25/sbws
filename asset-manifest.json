@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swsmith25/sbws.git/static/css/main.f855e6bc.css",
+    "main.js": "/swsmith25/sbws.git/static/js/main.73c11699.js",
+    "static/js/592.0cffc40e.chunk.js": "/swsmith25/sbws.git/static/js/592.0cffc40e.chunk.js",
+    "static/media/logo.svg": "/swsmith25/sbws.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/swsmith25/sbws.git/index.html",
+    "main.f855e6bc.css.map": "/swsmith25/sbws.git/static/css/main.f855e6bc.css.map",
+    "main.73c11699.js.map": "/swsmith25/sbws.git/static/js/main.73c11699.js.map",
+    "592.0cffc40e.chunk.js.map": "/swsmith25/sbws.git/static/js/592.0cffc40e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.73c11699.js"
+  ]
+}
