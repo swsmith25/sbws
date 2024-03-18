@@ -5,7 +5,7 @@ import NavBar from './components/NavBar'
 class App extends Component {
     render(){
         return(
-            
+           None 
         )
     }
 }
