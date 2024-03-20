@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/swsmith25/sbws/static/css/main.cd10a404.chunk.css",
-    "main.js": "/swsmith25/sbws/static/js/main.c52684ed.chunk.js",
-    "main.js.map": "/swsmith25/sbws/static/js/main.c52684ed.chunk.js.map",
-    "runtime~main.js": "/swsmith25/sbws/static/js/runtime~main.a303eb0d.js",
-    "runtime~main.js.map": "/swsmith25/sbws/static/js/runtime~main.a303eb0d.js.map",
-    "static/js/2.a71b1702.chunk.js": "/swsmith25/sbws/static/js/2.a71b1702.chunk.js",
-    "static/js/2.a71b1702.chunk.js.map": "/swsmith25/sbws/static/js/2.a71b1702.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/swsmith25/sbws/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/swsmith25/sbws/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/swsmith25/sbws/index.html",
-    "precache-manifest.3adf92fdf70b3473fc89a88a1fef2c9c.js": "/swsmith25/sbws/precache-manifest.3adf92fdf70b3473fc89a88a1fef2c9c.js",
-    "service-worker.js": "/swsmith25/sbws/service-worker.js",
-    "static/css/main.cd10a404.chunk.css.map": "/swsmith25/sbws/static/css/main.cd10a404.chunk.css.map",
-    "static/media/logo.svg": "/swsmith25/sbws/static/media/logo.06e73328.svg"
+    "main.css": "/github.com/sbws/static/css/main.cd10a404.chunk.css",
+    "main.js": "/github.com/sbws/static/js/main.c52684ed.chunk.js",
+    "main.js.map": "/github.com/sbws/static/js/main.c52684ed.chunk.js.map",
+    "runtime~main.js": "/github.com/sbws/static/js/runtime~main.34647bb4.js",
+    "runtime~main.js.map": "/github.com/sbws/static/js/runtime~main.34647bb4.js.map",
+    "static/js/2.a71b1702.chunk.js": "/github.com/sbws/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/github.com/sbws/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/github.com/sbws/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/github.com/sbws/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/github.com/sbws/index.html",
+    "precache-manifest.cabc15f5ac823958269300d2ca43902d.js": "/github.com/sbws/precache-manifest.cabc15f5ac823958269300d2ca43902d.js",
+    "service-worker.js": "/github.com/sbws/service-worker.js",
+    "static/css/main.cd10a404.chunk.css.map": "/github.com/sbws/static/css/main.cd10a404.chunk.css.map",
+    "static/media/logo.svg": "/github.com/sbws/static/media/logo.06e73328.svg"
   }
 }
