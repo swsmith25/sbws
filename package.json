@@ -1,7 +1,7 @@
 {
   "name": "sbws",
   "version": "0.1.0",
-  "homepage": "https://github.com/swsmith25/sbws/",
+  "homepage": "http://swsmith25.github.io/sbws",  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
