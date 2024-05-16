@@ -1,11 +1,14 @@
-import React, {Component} from 'react';
-import './App.css'
-import NavBar from './components/NavBar'
+import React from 'react';
 
-class App extends Component {
-    render(){
-        return(
-           None 
-        )
-    }
+import NavBar from '../components/NavBar';
+import { Container } from 'react-bootstrap';
+  
+function home() {
+    return (
+        <Container>
+            heyyyyy
+        </Container>
+    );
 }
+
+export default home;

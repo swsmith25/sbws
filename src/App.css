@@ -30,6 +30,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.centered {
+  text-align: center;
+  margin: 20px 0;
+}
 
 .App-link {
   color: #61dafb;
@@ -42,4 +46,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.poetry-container {
+  padding: 20px;
+}
+
+.poem-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.poem-box {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px 0;
+  width: 80%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  white-space: pre-wrap;
 }
