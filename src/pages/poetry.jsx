@@ -26,7 +26,8 @@ function Poetry() {
     
     return (
         <div className="poetry-container">
-        <h1 className="centered">Poetry Projects</h1>
+        <h1 className="centered">Poetry</h1>
+        <h2 className="centered">Some by me, some by others</h2>
         
         <div className="poem-list">
             {poems.map(poem => (

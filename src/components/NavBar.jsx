@@ -16,6 +16,7 @@ function NavBar() {
             <Nav.Link href="/">Home</Nav.Link>
             
             <NavDropdown title="Projects" id="basic-nav-dropdown">
+              <NavDropdown.Item href="/japan_blog">Japan Blog</NavDropdown.Item>
               <NavDropdown.Item href="/poetry">Poetry</NavDropdown.Item>
             </NavDropdown>
           

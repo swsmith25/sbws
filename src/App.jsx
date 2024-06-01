@@ -5,6 +5,8 @@ import NavBar from "./components/NavBar";
 import CButton from './components/CashButton'
 import Home from "./pages/home";
 import Poetry from "./pages/poetry";
+import Japan from "./pages/japan";
+
 
 import {
   BrowserRouter as Router,
@@ -18,7 +20,8 @@ function App() {
         <NavBar sticky='left'/>
           <Routes>
                 <Route exact path="/" element={<Home />} />
-                <Route path="/poetry" element={<Poetry />} />                
+                <Route path="/poetry" element={<Poetry />} />
+                <Route path="/japan_blog" element={<Japan />} /> 
           </Routes>
     </Router>
   );
