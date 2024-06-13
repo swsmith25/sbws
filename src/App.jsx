@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from "./components/NavBar";
-import CButton from './components/CashButton'
+// import CButton from './components/CashButton'
 import Home from "./pages/home";
 import Poetry from "./pages/poetry";
 import Japan from "./pages/japan";
@@ -21,7 +21,8 @@ function App() {
           <Routes>
                 <Route exact path="/" element={<Home />} />
                 <Route path="/poetry" element={<Poetry />} />
-                <Route path="/japan_blog" element={<Japan />} /> 
+                <Route path="/japan_blog/:id" element={<Japan />} />
+                <Redirect to='/' />
           </Routes>
     </Router>
   );
